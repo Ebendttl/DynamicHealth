@@ -1,0 +1,12 @@
+declare module 'framer-motion';
+declare module 'lucide-react';
+declare module 'recharts';
+declare module 'zustand';
+declare module '@stacks/connect';
+declare module '@stacks/transactions';
+declare module '@stacks/network';
+declare module '@hookform/resolvers/zod';
+declare module 'react-hook-form';
+declare module 'clsx';
+declare module 'tailwind-merge';
+declare module 'class-variance-authority';
